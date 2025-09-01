@@ -21,7 +21,7 @@
 		"author": "Mandy",
 		"author_profile": "https://mandydesign.com",
 		"title": "Mandy Tabbed Content",
-		"download_url": "https://bitbucket.org/teammandy/mandy-tabbed-content/get/master.zip",
+		"download_url": "https://github.com/mandytechnologies/mandy-tabbed-content/archive/refs/heads/main.zip",
 		"tested": "6.6.1",
 		"requires": "6.1.0",
 		"requires_php": "7.4",

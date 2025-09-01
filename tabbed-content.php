@@ -6,7 +6,7 @@
  * Description:       Why show many section when one do trick?
  * Requires at least: 6.6
  * Requires PHP:      7.0
- * Version:           1.0.3
+ * Version:           1.0.2
  * Author:            Quick Build
  * Author URI: 		  https://quickbuildwebsite.com/
  * License:           GPL-2.0-or-later
@@ -35,5 +35,5 @@ if (!class_exists('\Skeletor\Plugin_Updater')) {
 $updater = new \Skeletor\Plugin_Updater(
 	plugin_basename(__FILE__),
 	MANDY_TABBED_CONTENT_VERSION,
-	'https://bitbucket.org/teammandy/mandy-tabbed-content/raw/HEAD/package.json'
+	'https://github.com/mandytechnologies/mandy-tabbed-content/blob/main/package.json'
 );
