@@ -6,7 +6,7 @@
  * Description:       Why show many section when one do trick?
  * Requires at least: 6.6
  * Requires PHP:      7.0
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Quick Build
  * Author URI: 		  https://quickbuildwebsite.com/
  * License:           GPL-2.0-or-later
